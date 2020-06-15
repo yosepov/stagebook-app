@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445801550611",
+    "firebase_url": "https://stagebook-46902.firebaseio.com",
+    "project_id": "stagebook-46902",
+    "storage_bucket": "stagebook-46902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445801550611:android:d770d2bbca0714c56c00e6",
+        "android_client_info": {
+          "package_name": "com.test.stagebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445801550611-tbhk44slo3ee1npnrskqd9uu6g140g48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wlNqi9775bR-L6KprOAnYaCl3WhuAiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445801550611-tbhk44slo3ee1npnrskqd9uu6g140g48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
